@@ -21,8 +21,6 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "Itz_SapnaMusicbot")
 BOT_NAME = getenv("BOT_NAME" , "SAPNA")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
-
-API_KEY = "NxGBNexGenBots790d34"  # अपना API key यहाँ डालें
 # ---------------------------------------------------------
 
 
